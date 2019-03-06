@@ -51,7 +51,7 @@ def find_packages(namespace):
 ## ---------------------------------------------------------
 
 namespace    = 'newskylabs'
-subnamespace = 'utilities'
+subnamespace = 'utils'
 
 # Load the package metadata 
 exec(read_file(namespace, subnamespace, '__about__.py'))

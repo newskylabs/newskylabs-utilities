@@ -14,7 +14,7 @@
 ## limitations under the License.
 ## ---------------------------------------------------------
 
-from newskylabs.temple.__about__ import (
+from newskylabs.utils.__about__ import (
     __package_name__,
     __version__,
     __status__,
